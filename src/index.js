@@ -77,16 +77,3 @@ export class App extends React.Component {
   }
 }
 ReactDOM.render(<App />, document.getElementById('root'))
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
